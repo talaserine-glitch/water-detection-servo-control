@@ -39,4 +39,7 @@ The Arduino processes the signal and activates the servo motor when water is det
 
 Water Sensor → Arduino → Servo Motor
 
+## real circuit
+![Real Circuit](real_circuit.jpg)
+
 
