@@ -42,4 +42,7 @@ Water Sensor → Arduino → Servo Motor
 ## real circuit
 ![Real Circuit](real_circuit.jpg)
 
+## simulation
+![Simulation](simulation.jpg)
+
 
