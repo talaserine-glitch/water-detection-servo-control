@@ -18,6 +18,7 @@ _Jumper wires
 ## plan 
 
 1. connecting:
+
 Arduino 5V ─────────→ + Power Rail ───┬──→ Sensor VCC
                                       └──→ Servo Red
 
