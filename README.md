@@ -3,6 +3,8 @@ An Arduino-based system that detects water and automatically activates a servo m
 ## Objective
 The goal of this project is to create a simple automatic system that reacts to water detection by moving a servo motor.
 ## Components
+
+
 _arduino uno
 _water sensor module
 _Servo Motor
@@ -19,5 +21,7 @@ Arduino GND ────────→ - Power Rail ───┬──→ Senso
 Arduino A0 ──────────────────────────────→ Sensor Signal
 Arduino D9 ──────────────────────────────→ Servo Yellow
 2. Upload the Arduino code.
+
 3. When water is detected, the Arduino activates the servo.
 4. Test the system and adjust the servo position if needed.
+5. Test the system and adjust the servo position if needed.
