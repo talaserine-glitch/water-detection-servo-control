@@ -31,3 +31,12 @@ Arduino D9 ───────────────────────
 2. Upload the Arduino code.
 3. When water is detected, the Arduino activates the servo.
 4. Test the system and adjust the servo position if needed.
+
+## how it works
+
+The water sensor detects the presence of water and sends a signal to the Arduino.
+The Arduino processes the signal and activates the servo motor when water is detected.
+
+Water Sensor → Arduino → Servo Motor
+
+
