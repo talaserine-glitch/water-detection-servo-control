@@ -19,7 +19,7 @@ _Jumper wires
 
 1. connecting:
 
-Arduino 5V    ─→ + Power Rail ─→ Sensor VCC + Servo Red
+Arduino 5V    ─→   + Power Rail ─→ Sensor VCC + Servo Red
                                     
 
 Arduino GND ─→ - Power Rail ─→ Sensor GND + Servo Brown
