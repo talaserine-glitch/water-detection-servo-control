@@ -46,6 +46,7 @@ Water Sensor → Arduino → Servo Motor
 ![Simulation](simulation.jpg)
 
 ## arduino code
+```cpp
 #include <Servo.h>
 
 Servo myServo;
