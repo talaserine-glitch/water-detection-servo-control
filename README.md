@@ -26,6 +26,7 @@ Arduino GND ─→ - Power Rail ─→ Sensor GND
                                       └─→ Servo Brown
 
 Arduino A0 ──→ Sensor Signal
+
 Arduino D9 ──→ Servo Yellow
 
 2. Upload the Arduino code.
