@@ -45,4 +45,6 @@ Water Sensor → Arduino → Servo Motor
 ## simulation
 ![Simulation](simulation.jpg)
 
+## arduino code
+![Water Detection Servo Code](water-detection-servo-code.ino)
 
