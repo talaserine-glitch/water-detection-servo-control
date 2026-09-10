@@ -15,7 +15,7 @@ _Breadboard
 
 _Jumper wires
 
-## plan 
+## Plan 
 
 1. connecting:
 
@@ -35,7 +35,7 @@ Arduino D9 ─→ Servo Yellow
 
 4. Test the system and adjust the servo position if needed.
 
-## how it works
+## How it works
 
 The water sensor detects the presence of water and sends a signal to the Arduino.
 The Arduino processes the signal and activates the servo motor when water is detected.
