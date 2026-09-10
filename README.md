@@ -19,17 +19,19 @@ _Jumper wires
 
 1. connecting:
 
-Arduino 5V ──→ + Power Rail ──┬─→ Sensor VCC
+Arduino 5V ─→ + Power Rail ──→ Sensor VCC
                                       └──→ Servo Red
 
-Arduino GND ──→ - Power Rail ─┬─→ Sensor GND
+Arduino GND ─→ - Power Rail ──→ Sensor GND
                                       └──→ Servo Brown
 
 Arduino A0 ──→ Sensor Signal
 Arduino D9 ──→ Servo Yellow
 
 2. Upload the Arduino code.
+
 3. When water is detected, the Arduino activates the servo.
+
 4. Test the system and adjust the servo position if needed.
 
 ## how it works
